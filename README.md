@@ -36,4 +36,4 @@ Developed as part of my software development internship at **Hexsoftware**.
 ├── scissor1.png        # Computer scissor choice asset
 └── scissor2.png        # Player scissor choice asset
 
-Linkedin URL:https://lnkd.in/p/gtugzHPy
+Linkedin URL:https://www.linkedin.com/posts/josna-johnson-894a29392_python-pythondeveloper-pythonproject-activity-7496534680326787072-x_e3?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGCdu7AB3McqJazzcJ3w2cmEvw-1JU5jJNc
