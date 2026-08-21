@@ -1,4 +1,4 @@
-# 🎮 Rock Paper Scissors GUI Game
+# 🎮 Rock Paper Scissors Game
 
 An interactive, graphical Rock Paper Scissors game built with Python using `Tkinter` and `Pillow` (PIL). Play against an automated computer opponent with real-time score tracking and custom image displays.
 
